@@ -1,7 +1,7 @@
 {
-  "name": "callbag-date-timer",
+  "name": "callbag-latest-batch",
   "version": "1.0.0",
-  "description": "Callbag source that after given Date emits numbers in sequence to a specified period.",
+  "description": "Callbag operator converts a listenable source into a pullable one by batching data between requests.",
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
@@ -11,11 +11,10 @@
   "keywords": [
     "callbag",
     "callbags",
-    "timer",
-    "standard",
-    "spec",
-    "observable",
-    "iterable"
+    "latest",
+    "batch",
+    "buffer",
+    "operator"
   ],
   "dependencies": {},
   "devDependencies": {
