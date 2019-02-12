@@ -1,6 +1,6 @@
 {
   "name": "callbag-latest-batch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Callbag operator that converts a listenable source into a pullable one by batching data between requests.",
   "main": "index.js",
   "scripts": {
