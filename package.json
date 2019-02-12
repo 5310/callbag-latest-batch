@@ -1,0 +1,22 @@
+{
+  "name": "callbag-date-timer",
+  "version": "1.0.5",
+  "description": "Callbag source that after given Date emits numbers in sequence to a specified period.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "Sayantan Chaudhuri",
+  "license": "ISC",
+  "keywords": [
+    "callbag",
+    "callbags",
+    "timer",
+    "standard",
+    "spec",
+    "observable",
+    "iterable"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
